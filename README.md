@@ -1,3 +1,5 @@
+
+
 # Hospital_data
 Detailed Hospital Report – Patient Experience and Operational Insights
 This Power BI dashboard provides a comprehensive overview of patient satisfaction, wait times, and operational efficiency for the hospital.
